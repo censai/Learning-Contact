@@ -16,8 +16,10 @@
 * [比较好的多线程基础](http://www.cocoachina.com/ios/20150731/12819.html)
 
 
-### 4. 动画
+### 4. 动画&图形绘制
 * [iOS动画的核心技巧](https://zsisme.gitbooks.io/ios-/content/chapter13/catiledLayer.html)
+* [UIBezierPath和CAShapeLayer](http://www.cocoachina.com/ios/20160214/15251.html)
+* [UIImage的capinsets使用](http://onevcat.com/2011/12/uiimage/)
 
 
 ### 5. runloop
@@ -26,7 +28,11 @@
 
 ### 6. 体验优化
 * [YY大神 - 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+* [键盘监听](http://blog.sina.com.cn/s/blog_9c2363ad0101gow6.html)
+* [圆角帧数优化](http://www.cocoachina.com/ios/20150803/12873.html)
 
+### 7. React Native
+* [React Native入门](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html)
 
 
 ## Git使用
