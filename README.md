@@ -34,6 +34,11 @@
 ### 7. React Native
 * [React Native入门](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html)
 
+### 8. 各种机制
+* [runtime机制](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
+* [消息和消息转发机制](http://www.jianshu.com/p/01a19c64499c)
+
+
 
 ## Git使用
 整理成目录，让自己比较好看..
