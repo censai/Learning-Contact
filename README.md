@@ -3,6 +3,10 @@
 
 
 ## 关于Objc-C知识点
+### 0. 遗漏基础
+* [UICollectionView简单使用](http://www.jianshu.com/p/16c9d466f88c)
+
+
 ### 1. Block 相关
 * [简单易懂的block使用](http://fuckingblocksyntax.com/)
 * [block注意事项](http://blog.ibireme.com/2013/11/27/objc-block/#more-41448)
@@ -31,6 +35,7 @@
 * [键盘监听](http://blog.sina.com.cn/s/blog_9c2363ad0101gow6.html)
 * [圆角帧数优化](http://www.cocoachina.com/ios/20150803/12873.html)
 
+
 ### 7. React Native
 * [React Native入门](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html)
 
@@ -38,6 +43,13 @@
 * [runtime机制](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 * [消息和消息转发机制](http://www.jianshu.com/p/01a19c64499c)
 
+
+
+
+## Swift相关
+### 1.Optional以及问号、叹号
+* [关于optional](http://swiftcafe.io/2015/12/27/optional/)
+* [问号和叹号](http://letsswift.com/2014/06/swift-questionmark-exclamatorymark/)
 
 
 ## Git使用
