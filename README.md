@@ -10,6 +10,7 @@
 ### 1. Block 相关
 * [简单易懂的block使用](http://fuckingblocksyntax.com/)
 * [block注意事项](http://blog.ibireme.com/2013/11/27/objc-block/#more-41448)
+* [strongSelf的使用](http://www.jianshu.com/p/d80af05c8475)
 
 
 ### 2. 3D Touch
