@@ -39,20 +39,29 @@
 
 ### 7. React Native
 * [React Native入门](http://wiki.jikexueyuan.com/project/react-native/GettingStarted.html)
+* [React Native学习资料整理](http://www.w3ctech.com/topic/909)
 
 ### 8. 各种机制
 * [runtime机制](http://yulingtianxia.com/blog/2014/11/05/objective-c-runtime/)
 * [消息和消息转发机制](http://www.jianshu.com/p/01a19c64499c)
+* [iOS事件传递和响应机制](http://www.jianshu.com/p/2e074db792ba)
+
+### 9. 数据库使用
+* [FMDB操作SQLite](http://blog.devtang.com/2012/04/22/use-fmdb/)
 
 
-
-
+<br/><br/>
 ## Swift相关
 ### 1.Optional以及问号、叹号
 * [关于optional](http://swiftcafe.io/2015/12/27/optional/)
 * [问号和叹号](http://letsswift.com/2014/06/swift-questionmark-exclamatorymark/)
 
+### 2.Closures闭包
+* [有意思的闭包简单使用fuckingSwiftBlock](http://fuckingswiftblocksyntax.com/)
 
+
+
+<br/><br/>
 ## Git使用
 整理成目录，让自己比较好看..
 
@@ -63,5 +72,5 @@
 ### 2. Github之GIF
 * [mac上制作gif - 以iOS的demo为例](http://www.jianshu.com/p/27ec6375b8ab)
 
-
-
+<br/><br/>
+### 附注：[别人家的完整项目收集](http://www.henishuo.com/ios-app-fully-code/)
