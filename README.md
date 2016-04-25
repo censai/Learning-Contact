@@ -5,20 +5,31 @@
 ## 关于Objc-C知识点
 ### 0. 遗漏基础
 * [UICollectionView简单使用](http://www.jianshu.com/p/16c9d466f88c)
+* [NSCharacterSet使用](http://nshipster.cn/nscharacterset/)
+* [iOS开发遍历集合(NSArray，NSDictionary、NSSet)方法总结](http://www.jianshu.com/p/d6ef96c862ca)
+* [Core Animation 核心动画基础](http://www.jianshu.com/p/8c1c1697c0ce)
+* [Core Animation 核心动画基础2](http://www.jianshu.com/p/92d20da28c74)
+* [OC中被遗漏的保留字](http://blog.devtang.com/2013/04/29/the-missing-objc-keywords/)
+* [iOS集合的深拷贝与浅拷贝](https://www.zybuluo.com/MicroCai/note/50592)
+* [初识TextKit](http://objccn.io/issue-5-1/)
 
 
 ### 1. Block 相关
 * [简单易懂的block使用](http://fuckingblocksyntax.com/)
 * [block注意事项](http://blog.ibireme.com/2013/11/27/objc-block/#more-41448)
 * [strongSelf的使用](http://www.jianshu.com/p/d80af05c8475)
+* [\__weak和__block的区别](http://honglu.me/2015/01/06/weak%E4%B8%8Eblock%E5%8C%BA%E5%88%AB/)
 
 
-### 2. 3D Touch
+### 2. 3DTouch&ApplePay
 * [github - 3DTouchDEMO](https://github.com/ITBigSea/3DTouchDemo)
+* [多媒体相关](http://www.cnblogs.com/kenshincui/p/4186022.html)
 
 
 ### 3. 多线程
 * [比较好的多线程基础](http://www.cocoachina.com/ios/20150731/12819.html)
+* [深入理解GCD-上](https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md)
+* [深入理解GCD-下](https://github.com/nixzhu/dev-blog/blob/master/2014-05-14-grand-central-dispatch-in-depth-part-2.md)
 
 
 ### 4. 动画&图形绘制
@@ -48,6 +59,11 @@
 
 ### 9. 数据库使用
 * [FMDB操作SQLite](http://blog.devtang.com/2012/04/22/use-fmdb/)
+
+### 10. UIWebView与JS
+* [UIWebview与JS的深度交互 - jsBridge](http://kittenyang.com/webview-javascript-bridge/)
+
+
 
 
 <br/><br/>
